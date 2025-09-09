@@ -1,2 +1,2 @@
 # Taller-Uno-
-Primer Taller - Ana Marìa Vargas
+Primer Taller - Ana María Vargas
